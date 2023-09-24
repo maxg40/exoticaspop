@@ -1,8 +1,6 @@
 Swal.fire({
-    title: 'Sweet!',
-    text: 'Modal with a custom image.',
-    imageUrl: './img/LOGO2.png',
-    imageWidth: 200,
-    imageHeight: 200,
-    imageAlt: 'Custom image',
+    title: 'BIENVENIDOS',
+    text: '30% DE DESCUENTO en transferencia o efectivo',
+    imageUrl: 'https://github.com/maxg40/exoticaspop/blob/main/img/LOGO2.png?raw=true',
+    imageAlt: 'logo exoticas',
 })
